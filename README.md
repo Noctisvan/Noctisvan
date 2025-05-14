@@ -1,6 +1,6 @@
 # Hi, I'm Rein!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Student+%7C+Programmer+%7C+Bot+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Student+%7C+Web+%7C+Bot+Developer)](https://git.io/typing-svg)
 
 ## About Me
 - **Name:** Rein
